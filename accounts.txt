@@ -33,3 +33,5 @@ editorialmanager
 	
 orcid 
 	my_etsi@163.com --> qaz_wsx_123
+github:
+      hi-etsi  qaz_412  email:530871686@qq.com
