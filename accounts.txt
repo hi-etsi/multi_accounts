@@ -20,11 +20,6 @@ github
 	love_kindle  --> kindle_7627
 	
 	
-幕课大巴：
-	my_etsi --> Qaz_wsx_123
-	解压：http://www.mukedaba.com
-	
-	
 genymotion
 	my_etsi@163.com --> qaz123
 	
@@ -33,5 +28,4 @@ editorialmanager
 	
 orcid 
 	my_etsi@163.com --> qaz_wsx_123
-github:
-      hi-etsi  qaz_412  email:530871686@qq.com
+
